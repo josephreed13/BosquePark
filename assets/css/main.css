@@ -1817,7 +1817,7 @@ ul.icons {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("../../images/bg-collage.jpg");
+  background-image: url("../../images/bosquerender.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2068,7 +2068,7 @@ ul.icons {
   background-color: #00AF55;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: linear-gradient(rgba(0, 175, 85, 0.25), rgba(0, 175, 85, 0.25)), url(../../images/nbtx.jpg);
+  background-image: linear-gradient(rgba(0, 175, 85, 0.25), rgba(0, 175, 85, 0.25)), url(../../images/satx.jpg);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
